@@ -90,7 +90,7 @@ class keyboardToMouseApp:
             print ('esc key is down exiting')
 
 if __name__ == "__main__":
-    #help(keyboard)
+    # help(keyboard)
     App = keyboardToMouseApp()
     App.main()
 
