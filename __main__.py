@@ -91,5 +91,6 @@ class keyboardToMouseApp:
 
 if __name__ == "__main__":
     #help(keyboard)
-    app = keyboardToMouseClass()
-    app.main()
+    App = keyboardToMouseApp()
+    App.main()
+
